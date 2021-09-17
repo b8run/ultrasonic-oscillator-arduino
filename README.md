@@ -18,3 +18,6 @@ ultrasonic arduino oscillator, using pwm ports for pulse width and frequency con
 -   **Custo**: Hardware acessivel;
 -   **Programação**: possivel de controlar portas PWM a nivel de registrador;
 
+### Objetivo
+
+Este projeto tem como principal objetivo desenvolver um sistema de baixo custo que funcione semelhante a um umidificador de ar por meio de névoa fria.
