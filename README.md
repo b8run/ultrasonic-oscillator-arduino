@@ -15,6 +15,6 @@ ultrasonic arduino oscillator, using pwm ports for pulse width and frequency con
 -   
 ## Vantagens do Hardware
 
-    -   **Custo**: Hardware acessivel;
-    -   **Programação**: possivel de controlar portas PWM a nivel de registrador;
+-   **Custo**: Hardware acessivel;
+-   **Programação**: possivel de controlar portas PWM a nivel de registrador;
 
