@@ -12,7 +12,7 @@ ultrasonic arduino oscillator, using pwm ports for pulse width and frequency con
 
 -   **Arduino**: Hardware utilizado para geração de ondas por modulação;
 -   **C++**: Linguagem de programação utilizada para controlar o Arduino com o auxilio da IDE do proprio Arduino;
--   
+
 ## Vantagens do Hardware
 
 -   **Custo**: Hardware acessivel;
